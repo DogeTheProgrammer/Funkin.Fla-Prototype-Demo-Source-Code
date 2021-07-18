@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="romp_bop.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Romp boppers0000" x="0" y="0" width="760" height="760"/>
+	<SubTexture name="Romp boppers0001" x="0" y="0" width="760" height="760"/>
+	<SubTexture name="Romp boppers0002" x="760" y="0" width="760" height="760"/>
+	<SubTexture name="Romp boppers0003" x="760" y="0" width="760" height="760"/>
+	<SubTexture name="Romp boppers0004" x="1520" y="0" width="760" height="745" frameX="0" frameY="-11" frameWidth="760" frameHeight="760"/>
+	<SubTexture name="Romp boppers0005" x="1520" y="0" width="760" height="745" frameX="0" frameY="-11" frameWidth="760" frameHeight="760"/>
+	<SubTexture name="Romp boppers0006" x="0" y="0" width="760" height="760"/>
+	<SubTexture name="Romp boppers0007" x="0" y="0" width="760" height="760"/>
+	<SubTexture name="Romp boppers0008" x="0" y="0" width="760" height="760"/>
+	<SubTexture name="Romp boppers0009" x="0" y="0" width="760" height="760"/>
+	<SubTexture name="Romp boppers0010" x="0" y="0" width="760" height="760"/>
+	<SubTexture name="Romp boppers0011" x="0" y="0" width="760" height="760"/>
+	<SubTexture name="Romp boppers0012" x="0" y="0" width="760" height="760"/>
+	<SubTexture name="Romp boppers0013" x="0" y="0" width="760" height="760"/>
+	<SubTexture name="Romp boppers0014" x="0" y="0" width="760" height="760"/>
+	<SubTexture name="Romp boppers0015" x="0" y="0" width="760" height="760"/>
+</TextureAtlas>
